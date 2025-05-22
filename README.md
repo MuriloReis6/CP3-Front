@@ -13,6 +13,8 @@ transform
 :active
 transition
 
-Murilo Canéstri dos Reis
+Murilo Canéstri dos Reis 
+
 https://github.com/MuriloReis6/CP3-front.git
 
+https://muriloreis6.github.io/CP3-front/
